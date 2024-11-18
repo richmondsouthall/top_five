@@ -1,3 +1,5 @@
+Richmond Southall (richmonds)
+
 # top_five
 
 Sample Top Five project for the CI/CD activity in class. To run the project locally, please use the following commands in your terminal (requires Python installation):
